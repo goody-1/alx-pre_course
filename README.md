@@ -1,1 +1,1 @@
-# This is a software engineering **pre course** git repository
+# This is a software engineering *pre course* git repository
