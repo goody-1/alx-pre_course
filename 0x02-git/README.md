@@ -1,1 +1,0 @@
-## This readme is for the __0x02-git__ folder in the ALX pre-course module 
